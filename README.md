@@ -11,4 +11,4 @@
 
 </br>
 
-![Kalindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalindudc&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,30302f,19191a&title_color=fff&text_color=fff&icon_color=fff&hide_rank=false&border_radius=3)
+![Kalindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalindudc&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,30302f,19191a&title_color=fff&text_color=fff&icon_color=fff&hide_rank=false&border_radius=3&hide_border=true)
