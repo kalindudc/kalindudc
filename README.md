@@ -7,5 +7,5 @@
 
 </br>
 
-🔭 I’m currently working on [@MysteryInc](https://github.com/Mystery-Incorporated) & [craftle](https://github.com/kalindudc/craftle)
+🔭 I’m currently working on [@FloofyInc](https://github.com/FloofyInc) & [craftle](https://github.com/kalindudc/craftle)
 
